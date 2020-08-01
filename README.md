@@ -7,3 +7,5 @@ archivos de pruebas para el curso de git platzi
 *El flujo de Trabajo GitHub
 *Buenas Practicas
 *Manejo y creacion de una Rama o Branch
+
+**Este es un readme.md de prueba**
